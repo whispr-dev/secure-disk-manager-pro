@@ -1,0 +1,10 @@
+^C:\GITHUB\SECURE_DISK_MANAGER_PRO\SECURE_DISKMANAGER_PRO\CMAKELISTS.TXT
+setlocal
+C:\cmake-4.0.0-rc4-windows-x86_64\bin\cmake.exe -SC:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro -BC:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro/build --check-stamp-file C:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

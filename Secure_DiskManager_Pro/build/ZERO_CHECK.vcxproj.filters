@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\build\CMakeFiles\765b482cfe1f6a05cb2b841b8e70d1f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EC40794D-34F0-338D-BF40-939B74D0D815}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

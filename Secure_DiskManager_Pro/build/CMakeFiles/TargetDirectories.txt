@@ -1,0 +1,3 @@
+C:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro/build/CMakeFiles/SecureDiskManagerPro.dir
+C:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro/build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/secure_disk_manager_pro/Secure_DiskManager_Pro/build/CMakeFiles/ZERO_CHECK.dir

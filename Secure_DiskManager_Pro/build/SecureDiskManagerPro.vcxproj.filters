@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\DiskManagement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileCompressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileCompressor_MT_SIMD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileCompressor_MT_SIMD_Enc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileEncryption.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileTransferManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\FileUploader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\GhostMode_Controller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\Payload_Dispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\SearchEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\SecureDeletion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\SecureDeletion_SIMD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\StealthMailer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\Core\UltraFastSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\CommandDispatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\GhostMode_CLI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\Ghost_CLI_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\Ghost_UI_CLI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CLI\MainController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\identity\Ghost_IdentitySwitcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\identity\IdentitySwitcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\identity\Persona_Switcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\src\GhostMode_FS_Monitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\src\Ghost_AutoWipe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\src\Ghost_NetUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\net\GhostStealthNet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\net\Ghost_Tunnel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\plugins\PrimeHilbertIndexer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\plugins\QuantumEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\plugins\QubitTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\GhostMode_Vanisher\plugins\SIMD_Entropy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\secure_disk_manager_pro\Secure_DiskManager_Pro\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{754AE77E-9DC8-3248-ACF6-AE11D71D554D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
