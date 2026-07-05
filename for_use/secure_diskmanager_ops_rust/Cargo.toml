@@ -1,0 +1,22 @@
+[package]
+name = "secure_diskmanager_ops"
+version = "0.1.2"
+edition = "2021"
+description = "Safe Rust equivalents for the Secure_DiskManager_Pro C++ OS utility modules."
+license = "MIT OR Apache-2.0"
+
+[features]
+default = []
+# This crate deliberately keeps stealth, covert exfiltration, MAC spoofing,
+# kill-switch, and self-delete routines blocked even when features are enabled.
+# These feature names are reserved for future strictly-local admin workflows.
+dangerous-destructive = []
+dangerous-identity = []
+dangerous-net = []
+
+[dependencies]
+flate2 = "1"
+getrandom = "0.2"
+regex = "1"
+walkdir = "2"
+
